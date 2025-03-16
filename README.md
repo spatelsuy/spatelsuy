@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-As an enthusiastic professional deeply passionate about coding and continual learning, I thrive on exploring new technologies and pushing the boundaries of innovation. I am committed to honing my skills and expanding my knowledge base in the dynamic world of software development. Whether it's delving into cutting-edge frameworks, mastering complex algorithms, or collaborating on exciting projects, I embrace every opportunity to grow and contribute to the ever-evolving landscape of technology. With a solid foundation in coding and a hunger for new challenges, I am poised to make meaningful contributions to any team or project on GitHub. 
+An enthusiastic software professional with a deep passion for coding and continuous learning, thriving on exploring new technologies and committed to expanding knowledge in the ever-evolving world of software. With a solid foundation in coding and a strong desire for new challenges, always eager to make meaningful contributions.
 
 ### ***Let's code, learn, and innovate together!***
