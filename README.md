@@ -21,6 +21,7 @@ An enthusiastic software professional with a deep passion for coding and continu
 
 <h3 align="center"><b><i>Let's code, learn, and innovate together!</i></b></h3>
 
+<h1></h1>
 <p align="center">
 <a href="#">
     <img src="https://skillicons.dev/icons?i=c,python,java,github,html,css,js,ts,vscode&theme=light&perline=10"
@@ -32,7 +33,7 @@ An enthusiastic software professional with a deep passion for coding and continu
   </a>
 </p>
 
----
+<h1></h1>
 <h3 align="center">👤  About Me</h3>
 
 <h3 align="center"> <b>I'm Suyash currently pursuing my bachelor degree in Computer Science from North Carolina State University.</b></h3>
